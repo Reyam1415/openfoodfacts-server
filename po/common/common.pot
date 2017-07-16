@@ -2521,3 +2521,6 @@ msgctxt "nutrition_grade_fr_alt"
 msgid "NutriScore nutrition grade"
 msgstr ""
 
+msgctxt "title_separator"
+msgid " — "
+msgstr ""
